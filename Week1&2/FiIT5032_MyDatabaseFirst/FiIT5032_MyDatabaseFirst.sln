@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiIT5032_MyDatabaseFirst", "FiIT5032_MyDatabaseFirst\FiIT5032_MyDatabaseFirst.csproj", "{4D9C03F2-D1E7-4374-BCD1-42D3A8DBEDFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiIT5032_MyDatabaseFirst.Tests", "FiIT5032_MyDatabaseFirst.Tests\FiIT5032_MyDatabaseFirst.Tests.csproj", "{B5C5D8E1-7E31-4E94-904B-FB08382835CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D9C03F2-D1E7-4374-BCD1-42D3A8DBEDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9C03F2-D1E7-4374-BCD1-42D3A8DBEDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9C03F2-D1E7-4374-BCD1-42D3A8DBEDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9C03F2-D1E7-4374-BCD1-42D3A8DBEDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C5D8E1-7E31-4E94-904B-FB08382835CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C5D8E1-7E31-4E94-904B-FB08382835CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C5D8E1-7E31-4E94-904B-FB08382835CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C5D8E1-7E31-4E94-904B-FB08382835CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BFEED14-47FD-414F-A7E4-27C267A4A339}
+	EndGlobalSection
+EndGlobal
